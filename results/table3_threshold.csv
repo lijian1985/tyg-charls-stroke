@@ -1,0 +1,4 @@
+test,statistic,df,p,note
+RCS non-linearity (not computed here; see R script),,,0.068,reported in manuscript
+Two-piecewise LRT,6.087149045190017,1.0,0.013616863278136807,inflection at TyG = 8.3
+Difference in segment slopes,-2.359547841991533,,0.018297221400419755,Wald z-test
