@@ -1,0 +1,28 @@
+# Local data - CHARLS individual-level data must not be redistributed
+data/*.csv
+data/*.xls
+data/*.rds
+data/*.Rdata
+*.csv
+*.xls
+*.rds
+*.Rdata
+
+# Keep the committed result outputs visible
+!results/*.csv
+
+# R artefacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python artefacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+*.log

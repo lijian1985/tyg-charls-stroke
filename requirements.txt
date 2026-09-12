@@ -1,0 +1,15 @@
+# R dependencies for the TyG-stroke analysis
+# R version 4.3.1 or later
+
+dplyr>=1.1.0
+readr>=2.1.0
+survival>=3.5.0
+rms>=6.7.0
+survminer>=0.4.9
+ggplot2>=3.4.0
+
+# Optional: Python verification script
+# numpy>=1.26
+# pandas>=2.1
+# lifelines>=0.27
+# scipy>=1.11
